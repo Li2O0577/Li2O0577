@@ -1,8 +1,8 @@
-# Hi there 👋
+# Hi there 
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 I'm an undergraduate student at the School of Information, Renmin University of China.
 
@@ -10,7 +10,7 @@ I am interested in **Deep Learning**, **Artificial Intelligence**, and the long-
 
 ---
 
-## 🚀 Current Focus
+##  Current Focus
 
 * Deep Learning fundamentals
 * Transformer architectures and attention mechanisms
@@ -20,7 +20,7 @@ I am interested in **Deep Learning**, **Artificial Intelligence**, and the long-
 
 ---
 
-## 📫 Contact
+##  Contact
 
 I'm always open to communication and discussion.
 
