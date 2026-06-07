@@ -17,16 +17,3 @@ I am interested in **Deep Learning**, **Artificial Intelligence**, and the long-
 * Large Language Models
 * AI agents and AGI-related research trends
 * Mathematical foundations of machine learning
-
----
-
-##  Contact
-
-I'm always open to communication and discussion.
-
-* GitHub: [@Li2O0577](https://github.com/Li2O0577)
-* Email: [lijiayang057@ruc.edu.cn](lijiayang057@ruc.edu.cn)
-
----
-
-> Stay curious. Keep learning. Build for the future.
